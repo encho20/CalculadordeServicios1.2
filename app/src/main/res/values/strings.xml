@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calculador de  Servicios 1.2</string>
+    <string name="action_settings">Settings</string>
+    //Botones
+    <string name="boton_agua">Agua</string>
+    <string name="boton_luz">Luz</string>
+    <string name="boton_gas">Gas</string>
+    <string name="titulo_inicio">Que culebra llego?</string>
+    //Texto
+    <string name="Titulo_gas">Gas</string>
+    <string name="titulo_agua">Recibo del agua</string>
+    <string name="personas_de_la_casa">Cuantas personas viven en la casa?</string>
+    <string name="personas_del_primer_piso">Cuantos viven en el primer piso?</string>
+    <string name="personas_del_segundo_piso">Cuantos viven en el segundo piso?</string>
+    <string name="personas_del_tercero_piso">Cuantos viven en el tercer piso?</string>
+    <string name="primer_piso">Primer Piso</string>
+    <string name="pagan_un_mes">Pagan solo un mes?</string>
+    <string name="Segundo_piso">Segundo Piso</string>
+    <string name="tercer_piso">Tercer Piso</string>
+    <string name="valor_recibo">Valor del Recibo</string>
+    <string name="calcular_button">Calcular</string>
+    <string name="titulo_luz">Recibo de la Luz</string>
+    <string name="titulo_gas">Recibo del Gas</string>
+    //
+    IDS
+    <string name="primerPiso">Recibo del Gas</string>
+    <string name="title_activity_agua">Agua</string>
+</resources>
